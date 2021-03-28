@@ -4,6 +4,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+nbfvdfgykvhgadbfhkvgfbakhejgvb
 
 [![GitHub issues](https://img.shields.io/github/issues/avinashkranjan/Amazing-Python-Scripts.svg)](https://github.com/avinashkranjan/Amazing-Python-Scripts/issues)
 [![GitHub issues closed](https://img.shields.io/github/issues-closed/avinashkranjan/Amazing-Python-Scripts.svg)](https://github.com/avinashkranjan/Amazing-Python-Scripts/issues?q=is%3Aissue+is%3Aclosed)
